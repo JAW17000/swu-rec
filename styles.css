@@ -77,6 +77,12 @@ p {
 	margin: 0 auto;	
 	text-align: center;
 }
+.grid-container-aspects img {
+	width: 7vw;
+}
+.non-active {
+	filter: grayscale(85%);
+}
 .home-grid {
 	display: grid;
 	grid-template-columns: 50% 50%;
